@@ -1,0 +1,43 @@
+version: '3'
+
+services:
+    mariadb:
+        image: mariadb:10
+        container_name: mysqldbp
+        restart: always
+        command: --character_set_client=utf8 --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --character-set-client-handshake=FALSE
+        volumes:
+          - ./db:/var/lib/mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: mysql123r
+            MYSQL_DATABASE: dolibarr
+            MYSQL_USER: dolibarr
+            MYSQL_PASSWORD: dolibarr#123
+
+    dolibarr:
+        image: tuxgasy/dolibarr
+        container_name: dolibarrp
+        restart: always
+        environment:
+            DOLI_DB_HOST: mariadb
+            DOLI_DB_USER: dolibarr
+            DOLI_DB_PASSWORD: dolibarr#123
+            DOLI_DB_NAME: dolibarr
+            DOLI_URL_ROOT: 'http://localhost:3307'
+            PHP_INI_DATE_TIMEZONE: 'America/Mexico_City'
+            DOLI_ADMIN_LOGIN: Administrador
+            DOLI_ADMIN_PASSWORD: Administrador123#
+        ports:
+            - "3307:80"
+        links:
+            - mariadb
+        volumes:
+            - dolibarr_html:/var/www/html
+            - ./documents:/var/www/documents
+            - ./code:/home
+            
+volumes:
+    dolibarr_html:
+#    dolibarr_docs:
+#   dolibarr_db:
+
