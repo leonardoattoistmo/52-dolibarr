@@ -32,11 +32,11 @@ services:
         links:
             - mariadb
         volumes:
-            - dolibarr_html:/var/www/html
+            - ./code:/var/www/html
             - ./documents:/var/www/documents
-            - ./code:/home
+            #- ./code:/home
             
-volumes:
-    dolibarr_html:
+#volumes:
+#    dolibarr_html:
 #    dolibarr_docs:
 #   dolibarr_db:

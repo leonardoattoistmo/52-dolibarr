@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_rowid (rowid);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_ref (ref);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_fk_soc (fk_soc);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD CONSTRAINT fx_eventorganization_conferenceorboothattendee_fk_soc FOREIGN KEY (fk_soc) REFERENCES llx_societe(rowid);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_fk_actioncomm (fk_actioncomm);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD CONSTRAINT fx_eventorganization_conferenceorboothattendee_fk_actioncomm FOREIGN KEY (fk_actioncomm) REFERENCES llx_actioncomm(id);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_email (email);
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD INDEX idx_eventorganization_conferenceorboothattendee_status (status);
+
+
+ALTER TABLE llx_eventorganization_conferenceorboothattendee ADD UNIQUE INDEX uk_eventorganization_conferenceorboothattendee(fk_soc, fk_actioncomm, email);
+
+
