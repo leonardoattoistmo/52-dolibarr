@@ -1,0 +1,720 @@
+[31] Log opened at 2021-08-11 03:05:40.616513
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/info.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] WARN: 2021-08-11 03:05:40.621292: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[31] Log closed at 2021-08-11 03:05:40.621353
+
+[32] Log opened at 2021-08-11 03:11:38.859464
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:38.971298: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:38.971439
+
+[32] Log opened at 2021-08-11 03:11:39.136086
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/viewimage.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:39.201237: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:39.201521
+
+[32] Log opened at 2021-08-11 03:11:42.240888
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:42.473231: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:42.473716
+
+[32] Log opened at 2021-08-11 03:11:45.566113
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:45.774326: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:45.774737
+
+[32] Log opened at 2021-08-11 03:11:49.067240
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:49.267617: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:49.268173
+
+[32] Log opened at 2021-08-11 03:11:49.915000
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[32] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/viewimage.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="32"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[32] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[32] [Step Debug] WARN: 2021-08-11 03:11:49.962980: There was a problem sending 179 bytes on socket 11: Broken pipe.
+[32] Log closed at 2021-08-11 03:11:49.963406
+
+[31] Log opened at 2021-08-11 03:20:20.324195
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 37
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="37" state="enabled" hit_count="0" hit_value="0" id="310001"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="310001" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 5 -d 310001
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="37" state="enabled" hit_count="0" hit_value="0" id="310001"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///var/www/html/societe/card.php -n 132
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310002"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="310002" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 7 -d 310002
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="7"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310002"></breakpoint></response>
+
+[31] [Step Debug] <- run -i 8
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="8" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/societe/card.php" lineno="37"></xdebug:message></response>
+
+[31] [Step Debug] <- stack_get -i 9
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="9"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/societe/card.php" lineno="37"></stack></response>
+
+[31] [Step Debug] <- context_names -i 10 -d 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="10"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[31] [Step Debug] <- context_get -i 11 -d 0 -c 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="11" context="0"><property name="$MAXEVENT" fullname="$MAXEVENT" type="uninitialized"></property><property name="$NBCOLS" fullname="$NBCOLS" type="uninitialized"></property><property name="$TContact" fullname="$TContact" type="uninitialized"></property><property name="$accountancy_code_buy" fullname="$accountancy_code_buy" type="uninitialized"></property><property name="$accounta
+[31] [Step Debug] <- context_get -i 12 -d 0 -c 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="12" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="1" numchildren="14" page="0" pagesize="32"><property name="Drupal_toolbar_collapsed" fullname="$_COOKIE[&quot;Drupal_toolbar_collapsed&quot;]" type="string" size="1" encoding="base64"><![CDATA[MA==]]></property><property name="Drupal_tableDrag_showWeight" fullname="$_COOKIE[&quot;Drupal_tableDra
+[31] [Step Debug] <- context_get -i 13 -d 0 -c 2
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="13" context="2"></response>
+
+[31] [Step Debug] <- breakpoint_remove -i 14 -d 310001
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="14"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="37" state="enabled" hit_count="1" hit_value="0" id="310001"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_remove -i 15 -d 310002
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="15"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310002"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 16 -t line -f file:///var/www/html/societe/card.php -n 132
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310003"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="310003" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 17 -d 310003
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="17"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310003"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_remove -i 18 -d 310003
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="18"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310003"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 19 -t line -f file:///var/www/html/societe/card.php -n 129
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="129" state="enabled" hit_count="0" hit_value="0" id="310004"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="19" id="310004" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 20 -d 310004
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="20"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="129" state="enabled" hit_count="0" hit_value="0" id="310004"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 21 -t line -f file:///var/www/html/societe/card.php -n 132
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310005"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="21" id="310005" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 22 -d 310005
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="22"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310005"></breakpoint></response>
+
+[31] [Step Debug] <- run -i 23
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="23" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] <- stop -i 24
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="24" status="stopped" reason="ok"></response>
+
+[31] Log closed at 2021-08-11 03:20:47.199115
+
+[31] Log opened at 2021-08-11 03:20:49.768851
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 129
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="129" state="enabled" hit_count="0" hit_value="0" id="310006"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="310006" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 5 -d 310006
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="129" state="enabled" hit_count="0" hit_value="0" id="310006"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///var/www/html/societe/card.php -n 132
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310007"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="310007" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 7 -d 310007
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="7"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310007"></breakpoint></response>
+
+[31] [Step Debug] <- run -i 8
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="8" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/societe/card.php" lineno="129"></xdebug:message></response>
+
+[31] [Step Debug] <- stack_get -i 9
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="9"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/societe/card.php" lineno="129"></stack></response>
+
+[31] [Step Debug] <- context_names -i 10 -d 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="10"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[31] [Step Debug] <- context_get -i 11 -d 0 -c 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="11" context="0"><property name="$ADODB_DATETIME_CLASS" fullname="$ADODB_DATETIME_CLASS" type="bool"><![CDATA[1]]></property><property name="$ADODB_DATE_LOCALE" fullname="$ADODB_DATE_LOCALE" type="null"></property><property name="$MAXEVENT" fullname="$MAXEVENT" type="uninitialized"></property><property name="$NBCOLS" fullname="$NBCOLS" type="uninitialized"></property><property na
+[31] [Step Debug] <- context_get -i 12 -d 0 -c 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="12" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="1" numchildren="14" page="0" pagesize="32"><property name="Drupal_toolbar_collapsed" fullname="$_COOKIE[&quot;Drupal_toolbar_collapsed&quot;]" type="string" size="1" encoding="base64"><![CDATA[MA==]]></property><property name="Drupal_tableDrag_showWeight" fullname="$_COOKIE[&quot;Drupal_tableDra
+[31] [Step Debug] <- context_get -i 13 -d 0 -c 2
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="13" context="2"><property name="DOL_APPLICATION_TITLE" fullname="DOL_APPLICATION_TITLE" type="string" size="8" facet="constant" encoding="base64"><![CDATA[RG9saWJhcnI=]]></property><property name="DOL_VERSION" fullname="DOL_VERSION" type="string" size="6" facet="constant" encoding="base64"><![CDATA[MTQuMC4w]]></property><property type="string" size="1" facet="constant"><name enc
+[31] [Step Debug] <- property_get -i 14 -d 0 -c 0 -n "$object"
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="14"><property name="$object" fullname="$object" type="object" classname="Societe" children="1" numchildren="175" page="0" pagesize="32"><property name="element" fullname="$object-&gt;element" facet="public" type="string" size="7" encoding="base64"><![CDATA[c29jaWV0ZQ==]]></property><property name="table_element" fullname="$object-&gt;table_element" facet="public" type="string" 
+[31] [Step Debug] <- breakpoint_remove -i 15 -d 310006
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="15"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="129" state="enabled" hit_count="1" hit_value="0" id="310006"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_remove -i 16 -d 310007
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="16"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310007"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 17 -t line -f file:///var/www/html/societe/card.php -n 132
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310008"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="17" id="310008" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 18 -d 310008
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="18"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310008"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_remove -i 19 -d 310008
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="19"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="132" state="enabled" hit_count="0" hit_value="0" id="310008"></breakpoint></response>
+
+[33] Log opened at 2021-08-11 03:21:33.948179
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[33] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[33] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="33"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[33] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[33] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[33] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[33] [Step Debug] <- run -i 4
+[31] [Step Debug] <- run -i 20
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="20" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] <- stop -i 21
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="21" status="stopped" reason="ok"></response>
+
+[31] Log closed at 2021-08-11 03:21:36.896403
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="4" status="stopping" reason="ok"></response>
+
+[33] [Step Debug] <- stop -i 5
+[33] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="5" status="stopped" reason="ok"></response>
+
+[33] Log closed at 2021-08-11 03:21:37.088002
+
+[34] Log opened at 2021-08-11 03:24:22.953074
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[34] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[34] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="34"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[34] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[34] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[34] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[34] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 580
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="340001"></breakpoint></notify>
+
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="340001" resolved="resolved"></response>
+
+[34] [Step Debug] <- breakpoint_get -i 5 -d 340001
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="340001"></breakpoint></response>
+
+[34] [Step Debug] <- run -i 6
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="6" status="stopping" reason="ok"></response>
+
+[34] [Step Debug] <- stop -i 7
+[34] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="7" status="stopped" reason="ok"></response>
+
+[34] Log closed at 2021-08-11 03:24:23.170732
+
+[35] Log opened at 2021-08-11 03:24:58.323407
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[35] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="35"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[35] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[35] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[35] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[35] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 580
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="350001"></breakpoint></notify>
+
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="350001" resolved="resolved"></response>
+
+[35] [Step Debug] <- breakpoint_get -i 5 -d 350001
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="350001"></breakpoint></response>
+
+[35] [Step Debug] <- run -i 6
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="6" status="stopping" reason="ok"></response>
+
+[35] [Step Debug] <- stop -i 7
+[35] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="7" status="stopped" reason="ok"></response>
+
+[35] Log closed at 2021-08-11 03:24:58.547119
+
+[36] Log opened at 2021-08-11 03:25:14.907749
+[36] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[36] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[36] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="36"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[36] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[36] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[36] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[36] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 580
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="360001"></breakpoint></notify>
+
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="360001" resolved="resolved"></response>
+
+[36] [Step Debug] <- breakpoint_get -i 5 -d 360001
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="360001"></breakpoint></response>
+
+[36] [Step Debug] <- run -i 6
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="6" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/societe/card.php" lineno="580"></xdebug:message></response>
+
+[36] [Step Debug] <- stack_get -i 7
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="7"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/societe/card.php" lineno="580"></stack></response>
+
+[36] [Step Debug] <- context_names -i 8 -d 0
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="8"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[36] [Step Debug] <- context_get -i 9 -d 0 -c 0
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="9" context="0"><property name="$ADODB_DATETIME_CLASS" fullname="$ADODB_DATETIME_CLASS" type="bool"><![CDATA[1]]></property><property name="$MAXEVENT" fullname="$MAXEVENT" type="uninitialized"></property><property name="$NBCOLS" fullname="$NBCOLS" type="uninitialized"></property><property name="$TContact" fullname="$TContact" type="uninitialized"></property><property name="$TDir"
+[36] [Step Debug] <- context_get -i 10 -d 0 -c 1
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="10" context="1"><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="1" numchildren="14" page="0" pagesize="32"><property name="Drupal_toolbar_collapsed" fullname="$_COOKIE[&quot;Drupal_toolbar_collapsed&quot;]" type="string" size="1" encoding="base64"><![CDATA[MA==]]></property><property name="Drupal_tableDrag_showWeight" fullname="$_COOKIE[&quot;Drupal_tableDra
+[36] [Step Debug] <- context_get -i 11 -d 0 -c 2
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="11" context="2"><property name="DOL_APPLICATION_TITLE" fullname="DOL_APPLICATION_TITLE" type="string" size="8" facet="constant" encoding="base64"><![CDATA[RG9saWJhcnI=]]></property><property name="DOL_VERSION" fullname="DOL_VERSION" type="string" size="6" facet="constant" encoding="base64"><![CDATA[MTQuMC4w]]></property><property type="string" size="1" facet="constant"><name enc
+[36] [Step Debug] <- property_get -i 12 -d 0 -c 0 -n "$object"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="12"><property name="$object" fullname="$object" type="object" classname="Societe" children="1" numchildren="175" page="0" pagesize="32"><property name="element" fullname="$object-&gt;element" facet="public" type="string" size="7" encoding="base64"><![CDATA[c29jaWV0ZQ==]]></property><property name="table_element" fullname="$object-&gt;table_element" facet="public" type="string" 
+[36] [Step Debug] <- property_get -i 13 -d 0 -c 0 -n "$object->childtables"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="13"><property name="$object-&gt;childtables" fullname="$object-&gt;childtables" type="array" children="1" numchildren="12" page="0" pagesize="32"><property name="supplier_proposal" fullname="$object-&gt;childtables[&quot;supplier_proposal&quot;]" type="string" size="16" encoding="base64"><![CDATA[U3VwcGxpZXJQcm9wb3NhbA==]]></property><property name="propal" fullname="$object-&g
+[36] [Step Debug] <- property_get -i 14 -d 0 -c 0 -n "$object->childtablesoncascade"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="14"><property name="$object-&gt;childtablesoncascade" fullname="$object-&gt;childtablesoncascade" type="array" children="1" numchildren="16" page="0" pagesize="32"><property name="0" fullname="$object-&gt;childtablesoncascade[0]" type="string" size="14" encoding="base64"><![CDATA[c29jaWV0ZV9wcmljZXM=]]></property><property name="1" fullname="$object-&gt;childtablesoncascade[1]"
+[36] [Step Debug] <- property_get -i 15 -d 0 -c 0 -n "$object->fields"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="15"><property name="$object-&gt;fields" fullname="$object-&gt;fields" type="array" children="1" numchildren="78" page="0" pagesize="32"><property name="rowid" fullname="$object-&gt;fields[&quot;rowid&quot;]" type="array" children="1" numchildren="6"></property><property name="parent" fullname="$object-&gt;fields[&quot;parent&quot;]" type="array" children="1" numchildren="5"></p
+[36] [Step Debug] <- property_get -i 16 -d 0 -c 0 -n "$object->fields[\"code_client\"]"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="16"><property name="$object-&gt;fields[&quot;code_client&quot;]" fullname="$object-&gt;fields[&quot;code_client&quot;]" type="array" children="1" numchildren="5" page="0" pagesize="32"><property name="type" fullname="$object-&gt;fields[&quot;code_client&quot;][&quot;type&quot;]" type="string" size="11" encoding="base64"><![CDATA[dmFyY2hhcigyNCk=]]></property><property name="lab
+[36] [Step Debug] <- property_get -i 17 -d 0 -c 0 -n "$object->fields[\"town\"]"
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="property_get" transaction_id="17"><property name="$object-&gt;fields[&quot;town&quot;]" fullname="$object-&gt;fields[&quot;town&quot;]" type="array" children="1" numchildren="5" page="0" pagesize="32"><property name="type" fullname="$object-&gt;fields[&quot;town&quot;][&quot;type&quot;]" type="string" size="11" encoding="base64"><![CDATA[dmFyY2hhcig1MCk=]]></property><property name="label" fullname="$object
+[36] [Step Debug] <- stop -i 18
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="18" status="stopped" reason="ok"></response>
+
+[36] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="18" status="stopping" reason="ok"></response>
+
+[36] Log closed at 2021-08-11 03:27:49.602777
+
+[32] Log opened at 2021-08-11 03:28:00.355247
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] Log closed at 2021-08-11 03:28:00.533497
+
+[33] Log opened at 2021-08-11 03:30:05.338678
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[33] Log closed at 2021-08-11 03:30:05.540133
+
+[32] Log opened at 2021-08-11 03:34:04.487497
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] Log closed at 2021-08-11 03:34:04.679520
+
+[32] Log opened at 2021-08-11 03:34:05.020071
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] Log closed at 2021-08-11 03:34:05.254108
+
+[32] Log opened at 2021-08-11 03:34:06.337442
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[32] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[32] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[32] Log closed at 2021-08-11 03:34:06.771846
+
+[33] Log opened at 2021-08-11 03:34:17.080612
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[33] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[33] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[33] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[33] Log closed at 2021-08-11 03:34:17.587633
+
+[34] Log opened at 2021-08-11 03:34:29.570577
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[34] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[34] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[34] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[34] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[34] Log closed at 2021-08-11 03:34:30.034475
+
+[34] Log opened at 2021-08-11 03:34:30.629044
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[34] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[34] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[34] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[34] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[34] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[34] Log closed at 2021-08-11 03:34:30.852309
+
+[35] Log opened at 2021-08-11 03:34:40.876669
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] Log closed at 2021-08-11 03:34:41.176110
+
+[35] Log opened at 2021-08-11 03:34:43.600159
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] Log closed at 2021-08-11 03:34:43.964689
+
+[35] Log opened at 2021-08-11 03:34:47.266567
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] Log closed at 2021-08-11 03:34:47.598891
+
+[35] Log opened at 2021-08-11 03:34:48.155456
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[35] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[35] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[35] Log closed at 2021-08-11 03:34:48.377693
+
+[36] Log opened at 2021-08-11 03:35:25.865960
+[36] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[36] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[36] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[36] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[36] Log closed at 2021-08-11 03:35:26.232042
+
+[36] Log opened at 2021-08-11 03:35:26.888374
+[36] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[36] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[36] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[36] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', getaddrinfo: Invalid argument.
+[36] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[36] Log closed at 2021-08-11 03:35:27.088377
+
+[31] Log opened at 2021-08-11 03:36:25.036541
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 38
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="38" state="enabled" hit_count="0" hit_value="0" id="310001"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="310001" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 5 -d 310001
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="38" state="enabled" hit_count="0" hit_value="0" id="310001"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///var/www/html/societe/card.php -n 580
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="310002"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="310002" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 7 -d 310002
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="7"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="310002"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///var/www/html/societe/card.php -n 2277
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="2277" state="enabled" hit_count="0" hit_value="0" id="310003"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="310003" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 9 -d 310003
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="9"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="2277" state="enabled" hit_count="0" hit_value="0" id="310003"></breakpoint></response>
+
+[31] [Step Debug] <- run -i 10
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="10" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] <- stop -i 11
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="11" status="stopped" reason="ok"></response>
+
+[31] Log closed at 2021-08-11 03:36:25.161634
+
+[31] Log opened at 2021-08-11 03:36:25.455283
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/viewimage.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 38
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="310004" resolved="unresolved"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 5 -t line -f file:///var/www/html/societe/card.php -n 580
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="5" id="310005" resolved="unresolved"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///var/www/html/societe/card.php -n 2277
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="310006" resolved="unresolved"></response>
+
+[31] [Step Debug] <- run -i 7
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="7" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] <- stop -i 8
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="8" status="stopped" reason="ok"></response>
+
+[31] Log closed at 2021-08-11 03:36:25.529879
+
+[31] Log opened at 2021-08-11 03:36:27.066272
+[31] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[31] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port). :-)
+[31] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/societe/card.php" language="PHP" xdebug:language_version="7.4.21" protocol_version="1.0" appid="31"><engine version="3.0.4"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2021 by Derick Rethans]]></copyright></init>
+
+[31] [Step Debug] <- feature_set -i 1 -n resolved_breakpoints -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="resolved_breakpoints" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 2 -n notify_ok -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="notify_ok" success="1"></response>
+
+[31] [Step Debug] <- feature_set -i 3 -n extended_properties -v 1
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="extended_properties" success="1"></response>
+
+[31] [Step Debug] <- breakpoint_set -i 4 -t line -f file:///var/www/html/societe/card.php -n 38
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="38" state="enabled" hit_count="0" hit_value="0" id="310007"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="4" id="310007" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 5 -d 310007
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="5"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="38" state="enabled" hit_count="0" hit_value="0" id="310007"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 6 -t line -f file:///var/www/html/societe/card.php -n 580
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="310008"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="6" id="310008" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 7 -d 310008
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="7"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="580" state="enabled" hit_count="0" hit_value="0" id="310008"></breakpoint></response>
+
+[31] [Step Debug] <- breakpoint_set -i 8 -t line -f file:///var/www/html/societe/card.php -n 2277
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="2277" state="enabled" hit_count="0" hit_value="0" id="310009"></breakpoint></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="8" id="310009" resolved="resolved"></response>
+
+[31] [Step Debug] <- breakpoint_get -i 9 -d 310009
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_get" transaction_id="9"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/societe/card.php" lineno="2277" state="enabled" hit_count="0" hit_value="0" id="310009"></breakpoint></response>
+
+[31] [Step Debug] <- run -i 10
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://41" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="error"><xdebug:message filename="dbgp://43" lineno="1" type="Notice"><![CDATA[Undefined property: stdClass::$MAIN_USE_ADVANCED_PERMS]]></xdebug:message></notify>
+
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/societe/card.php" lineno="38"></xdebug:message></response>
+
+[31] [Step Debug] <- stack_get -i 11
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="11"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/societe/card.php" lineno="38"></stack></response>
+
+[31] [Step Debug] <- context_names -i 12 -d 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="12"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[31] [Step Debug] <- context_get -i 13 -d 0 -c 0
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="13" context="0"><property name="$ADODB_DATETIME_CLASS" fullname="$ADODB_DATETIME_CLASS" type="bool"><![CDATA[1]]></property><property name="$ADODB_DATE_LOCALE" fullname="$ADODB_DATE_LOCALE" type="null"></property><property name="$MAXEVENT" fullname="$MAXEVENT" type="uninitialized"></property><property name="$NBCOLS" fullname="$NBCOLS" type="uninitialized"></property><property na
+[31] [Step Debug] <- run -i 14
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="14" status="stopping" reason="ok"></response>
+
+[31] [Step Debug] <- stop -i 15
+[31] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stop" transaction_id="15" status="stopped" reason="ok"></response>
+
+[31] Log closed at 2021-08-11 03:36:47.116307
+
